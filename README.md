@@ -1,6 +1,6 @@
 ### Hi there 👋, Abhit Rana
 
-I'm from India, and an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix benefits of technology with the problems of society and converting them into business Idea!
+I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix benefits of technology with the problems of society and converting them into business Idea!
 
 Insights in My Life
 
