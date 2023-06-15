@@ -8,7 +8,7 @@ Insights in My Life
 - 🌱 I’m currently learning Communication, Machine Learning, NLP, and How to Build a Startup
 - 👯 I’m looking some people who is willing to work in a Machine Learning based or any startup Idea
 - 💬 Ask me about Moral Values, and Spirituality
-- ⚡ Reading Book: [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- ⚡ Reading Book: [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.in/Startup-Owner%E2%80%B2s-Manual-Step-Step/dp/1119690684)
 
 
 ### Find me all around the web:
