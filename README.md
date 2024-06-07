@@ -4,7 +4,6 @@ I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural L
 
 Insights in My Life
 
-- 🔭 I’m currently working on Startup Idea, and Personal Brand on Social Media
 - 🌱 I’m currently learning Communication, Machine Learning, NLP, and How to Build a Startup
 - 👯 I’m looking some people who is willing to work in a Machine Learning based or any startup Idea
 - 💬 Ask me about Moral Values, and Spirituality
