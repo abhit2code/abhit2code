@@ -1,14 +1,6 @@
 ### Hi there 👋, Abhit Rana
 
-I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix benefits of technology with the problems of society and converting them into business Idea!
-
-Insights in My Life
-
-- 🌱 I’m currently learning Communication, Machine Learning, NLP, and How to Build a Startup
-- 👯 I’m looking some people who is willing to work in a Machine Learning based or any startup Idea
-- 💬 Ask me about Moral Values, and Spirituality
-- ⚡ Reading Book: [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.in/Startup-Owner%E2%80%B2s-Manual-Step-Step/dp/1119690684)
-
+Passionate about Web Development, Natural Language Processing and Deep Learning. I always try to mix benefits of technology with the problems of society and converting them into business Idea!
 
 ### Find me all around the web:
 
@@ -19,7 +11,7 @@ Insights in My Life
 
 ## Skills
 
-* Programming: Java, Python (Pandas, PyTorch, NumPy, Scikit‑learn, Hugging‑Face, Sentence‑Transformer, etc.), R(ggplot2), Prolog, PHP, C,
+* Programming: ReactJS, NodeJS, MongoDB, PostgreSQL, NextJS, Java, Python (Pandas, PyTorch, NumPy, Scikit‑learn, Hugging‑Face, Sentence‑Transformer, etc.), R(ggplot2), Prolog, PHP, C,
 HTML/CSS, SQL, Linux, LATEX(Overleaf), Microsoft Office
 * Non-Programming: Content Creation, Digital Marketing, Cold Messaging, Entrepreneurship, UML‑class and UML‑Use Case Diagrams, Flow Diagrams, Documentation, Engaging Presentation, Report Writing, Presentation Making
 * Soft-Skills: Communication, Cold Calling, Connecting With People, Listening and Understanding People, Teamwork, Problem‑solving
