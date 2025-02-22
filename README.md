@@ -6,7 +6,6 @@ Passionate about Web Development, Natural Language Processing and Deep Learning.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abhitrana/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.youtube.com/channel/UC45RgaNeQ-6NXkDGX1p-2Wg/featured" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 </p>
 
 ## Skills
