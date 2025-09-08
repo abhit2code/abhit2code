@@ -10,11 +10,12 @@ Passionate about Web Development, Natural Language Processing and Deep Learning.
 
 ## Skills
 
-* Programming: ReactJS, NodeJS, MongoDB, PostgreSQL, NextJS, Java, Python (Pandas, PyTorch, NumPy, Scikit‑learn, Hugging‑Face, Sentence‑Transformer, etc.), R(ggplot2), Prolog, PHP, C,
-HTML/CSS, SQL, Linux, LATEX(Overleaf), Microsoft Office
-* Non-Programming: Content Creation, Digital Marketing, Cold Messaging, Entrepreneurship, UML‑class and UML‑Use Case Diagrams, Flow Diagrams, Documentation, Engaging Presentation, Report Writing, Presentation Making
-* Soft-Skills: Communication, Cold Calling, Connecting With People, Listening and Understanding People, Teamwork, Problem‑solving
-
+* Programming Languages : JavaScript, TypeScript, Python, Java, C, SQL, PHP, HTML, CSS
+* Frameworks & Libraries : ReactJS, NodeJS, FastAPI, Electron, Tailwind CSS, Beautiful Soup, Selenium, LangChain, LangGraph, TensorFlow, PyTorch, Scikit-learn, Transformers, JavaFX
+* Databases : MongoDB, SQL
+* DevOps & Deployment Tools : Docker, Nginx, Git, GitHub, Github Actions
+* Technologies / Areas of Work : Web Development, Retrieval-Augmented Generation (RAG), AI Agents, Android Development, Web Scraping, Machine Learning, Natural Language Processing, Data Analysis
+* Technical Tools : Google Colab, Netdata, Postman, RASA, Zotero, Figma, Kialo, Microsoft Excel
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhit-rana)](https://github.com/abhit-rana/github-readme-stats)
